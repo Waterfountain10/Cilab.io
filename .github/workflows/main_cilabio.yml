@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'Cilabio'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_267EF6F829954BE195C22B7030964049 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_7BC5C8B53E8946F79D452BFC9BCB56BB }}
